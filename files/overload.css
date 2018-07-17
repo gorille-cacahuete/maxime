@@ -1,0 +1,12 @@
+p {
+	font-size: 20px !important;
+}
+
+h3 {
+	font-size: 30px !important;
+}
+
+.sup {
+	font-size: 10px;
+    vertical-align: super;
+}
